@@ -1,8 +1,0 @@
-{
-  "name": "underscore-string-latest",
-  "description": "underscore.string repackaged for Meteor",
-  "homepage": "https://github.com/TimHeckel/meteor-underscore-string",
-  "author": "Tim Heckel <tim@slatebox.com>",
-  "version": "2.3.3",
-  "git": "https://github.com/TimHeckel/meteor-underscore-string.git"
-}

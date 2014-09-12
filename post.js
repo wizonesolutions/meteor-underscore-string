@@ -7,5 +7,6 @@ _.str = _s;
 
 _.mixin(_.str.exports());
 
-// All functions, include conflict, will be available through _.str object
+// All functions, including conflicting functions, will be available through the
+// _.str object
 _.str.include('Underscore.string', 'string'); // => true
